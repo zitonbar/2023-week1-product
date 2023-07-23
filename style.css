@@ -35,7 +35,9 @@ span {
 .fz-24{
     font-size: 24px;
 }
-
+.fz-20 {
+    font-size: 20px;
+}
 .lts-12em {
     letter-spacing: 0.12em;
 }
@@ -44,6 +46,21 @@ span {
 }
 .pt-160 {
     padding-top: 160px;
+}
+.pt-80 {
+    padding-top: 80px;
+}
+.pt-16 {
+    padding-top: 16px;
+}
+.pt-12 {
+    padding-top: 12px;
+}
+.pt-8 {
+    padding-top: 8px;
+}
+.pb-40 {
+    margin-bottom: 40px;
 }
 .pb-160 {
     padding-bottom: 160px;
@@ -59,15 +76,6 @@ span {
 }
 .m-0-auto {
     margin: 0 auto;
-}
-.mt-40 {
-    margin-top: 40px;
-}
-.mt-80 {
-    margin-top: 80px;
-}
-.mb-16 {
-    margin-bottom: 16px;
 }
 .ml-a {
     margin-left: auto;
