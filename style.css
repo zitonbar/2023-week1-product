@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro:ital@0;1&display=swap');
+
+
+body {
+    line-height: 1.5;
+    font-size: 24px;
+    font-family: 'Castoro', serif;
+}
+a {
+    text-decoration: none;
+}
+img {
+    vertical-align: middle;
+}
+span {
+    font-style: italic;
+}
+.container {
+    width: 1296px;
+}
+.content {
+    width: 636px;
+}
+
+
+.fz-128 {
+    font-size: 128px;
+}
+.fz-40 {
+    font-size: 40px;
+}
+.fz-32 {
+    font-size: 32px;
+}
+.fz-24{
+    font-size: 24px;
+}
+
+.lts-12em {
+    letter-spacing: 0.12em;
+}
+.ta-r {
+    text-align: right;
+}
+.pt-160 {
+    padding-top: 160px;
+}
+.pb-160 {
+    padding-bottom: 160px;
+}
+.py-48 {
+    padding: 48px 0;
+}
+.py-64 {
+    padding: 64px 0;
+}
+.mx-20 {
+    margin: 0 20px;
+}
+.m-0-auto {
+    margin: 0 auto;
+}
+.mt-40 {
+    margin-top: 40px;
+}
+.mt-80 {
+    margin-top: 80px;
+}
+.mb-16 {
+    margin-bottom: 16px;
+}
+.ml-a {
+    margin-left: auto;
+}
+
+
+
+
+.bg-gray {
+    background-color: #efefef;
+}
+.bg-black {
+    background-color: black;
+}
+.color-black {
+    color:black;
+}
+.color-gray {
+    color: #949494;
+}
+.color-red {
+    color: #ae0000;
+}
+.border-bottom-3px {
+    border-bottom: 3px solid #ae0000;
+}
+
+
+.d-b {
+    display: block;
+}
+.d-flex {
+    display: flex;
+}
+.jc-c {
+    justify-content: center;
+}
+.ai-c {
+    align-items: center;
+}

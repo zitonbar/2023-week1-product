@@ -46,3 +46,15 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/* css reset */
+
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
